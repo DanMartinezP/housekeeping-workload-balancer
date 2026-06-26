@@ -1,0 +1,57 @@
+umber,service,config,status
+1,arrival,king,dirty
+2,departure,king,dirty
+3,full service,twin,dirty
+5,arrival,twin,clean
+7,arrival,king,dirty
+9,departure,king,dirty
+11,full service,king,dirty
+14,arrival,king,clean
+16,departure,twin,dirty
+17-19,arrival,king-twin,dirty
+35,arrival,king,dirty
+37,full service,twin,dirty
+39,departure,king,dirty
+41,arrival,twin,clean
+43,full service,king,dirty
+46,departure,twin,dirty
+48,arrival,king,dirty
+50,full service,king,dirty
+75,departure,twin,dirty
+77,arrival,king,dirty
+79,full service,twin,dirty
+81,departure,king,dirty
+83,arrival,twin,dirty
+85,full service,king,dirty
+87,departure,twin,dirty
+89,arrival,king,clean
+91,full service,twin,dirty
+93,departure,king,dirty
+95,arrival,twin,dirty
+100,departure,king,dirty
+102,full service,twin,dirty
+104,arrival,king,dirty
+106,departure,twin,dirty
+110,full service,king,dirty
+112,arrival,twin,clean
+120,departure,king,dirty
+122,full service,twin,dirty
+130,arrival,king,dirty
+132,departure,twin,dirty
+140,full service,king,dirty
+142,arrival,twin,dirty
+151,departure,king,dirty
+153,arrival,twin,dirty
+155,full service,king,dirty
+157,departure,twin,dirty
+159,arrival,king,clean
+161,full service,twin,dirty
+163,arrival,king-king,dirty
+164,departure,king-twin,dirty
+165,full service,king-king,dirty
+166,arrival,king-twin,clean
+167,departure,king-king,dirty
+168,full service,king-twin,dirty
+170,arrival,king-king,dirty
+172,departure,king-twin,dirty
+174,arrival,king-king,dirty
